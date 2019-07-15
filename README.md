@@ -1,1 +1,1 @@
-# Flask_simple_blog with Flask, Bootstrap4.
+# Flask_simple_blog within Flask, Bootstrap4.
