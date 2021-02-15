@@ -1,1 +1,1 @@
-# Flask_simple_blog within Bootstrap4 + Flask + MySQL.
+# Flask_simple_blog with Bootstrap4 + Flask + MySQL.
